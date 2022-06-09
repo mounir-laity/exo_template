@@ -1,0 +1,5 @@
+Créez un nouveau projet avec 3 apps différentes. 
+Chaque app doit avoir deux templates : 
+hello.html
+index.html
+Les contenus des templates diffèrent selon l'app.
